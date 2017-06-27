@@ -1,0 +1,49 @@
+body {
+	font-family: 'Helvetica', sans-serif;
+}
+
+h1 {
+	font-size: 26px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 16px;
+	margin-left: 20px;
+}
+
+#name {
+	font-size: 60px;
+	margin-bottom: -10px;
+}
+
+#header, .aboutwhy {
+	text-align: center;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+#header {
+	border-bottom: 2px solid #CCCCCC;
+}
+
+.jobs {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+
+.aboutwhy {
+	font-style: italic;
+}
+
+#jobsline {
+	border-bottom: 2px solid #CCCCCC;
+}
+
+.jobsdesc {
+	margin-left: 20px;
+}
